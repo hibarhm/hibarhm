@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hiba Raheem</h1>
 <h3 align="center">A passionate IT Undergraduate of University of Moratuwa</h3>
 
-- 🔭 I’m currently working on [SkillWell](https://github.com/nismygaffoor/SkillWell.git)
+- 🔭 I’m currently working on [Project Suwapatha]
 
 - 🌱 I’m currently learning **Next JS, React Native,Java**
 
